@@ -38,6 +38,6 @@ Update repository: ``git fetch https://github.com/ShyKiss/outlast-hero-model-chr
 # Creators
 
 Level Launcher and SDK: superboo07 (**https://github.com/superboo07**) \
-Model: Beerymaid (Me) \
+Model: Beerymaid (Me)
 
 Outlast Modding Community: **https://discord.gg/rj55WY2JDP**
