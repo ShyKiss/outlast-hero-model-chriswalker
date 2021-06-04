@@ -4,7 +4,7 @@ Model: Chris Walker \
 State: Draft Version (Bad) \
 Archive Size: Normal (Uploaded here)
 
-Screenshots:
+**Screenshots**:
 
 ![](https://i.imgur.com/xZy2B3g.png)
 ![](https://i.imgur.com/CryLvYX.png)
@@ -33,7 +33,7 @@ Need Outlast: **https://store.steampowered.com/app/238320/Outlast**
 
 # How update this?
 
-Update repository: ``git fetch https://github.com/ShyKiss/outlast-hero-model-chriswalker``
+Update repository: ``git fetch https://github.com/ShyKiss/outlast-hero-model-chriswalker.git``
 
 # Creators
 
