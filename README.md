@@ -1,7 +1,7 @@
 # Outlast Hero Model
 
 Model: Chris Walker \
-State: Draft Version (Bad)
+State: Draft Version (Bad) \
 Archive Size: Normal (Uploaded here)
 
 Screenshots:
