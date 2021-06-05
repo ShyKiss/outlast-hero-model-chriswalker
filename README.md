@@ -2,6 +2,7 @@
 
 Model: Chris Walker \
 State: Draft Version (Bad) \
+Shadow State: Missing Head \
 Archive Size: Normal (Uploaded here)
 
 **Screenshots**:
